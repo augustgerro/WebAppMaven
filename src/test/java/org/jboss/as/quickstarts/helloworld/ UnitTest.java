@@ -1,9 +1,9 @@
-package org.jboss.as.quickstarts.WebAppMaven;
+package com.test;
 
-import org.junit.Test;
-public class UnitTest {
-  @Test
-  public void test(){
-  HelloWorldServlet.test();
+class Test {
+
+  public static void main(String[] args) {
+    System.out.println("Hellow MTN");
   }
+
 }
