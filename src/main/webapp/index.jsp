@@ -8,7 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>First commit</h1>
+        <h1>Second commit</h1>
         <img src="https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg">
     </body>
 </html>
