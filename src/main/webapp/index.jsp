@@ -9,6 +9,6 @@
     </head>
     <body>
         <h1>Second commit</h1>
-        <img src="https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg">
+        <img src="https://octodex.github.com/images/octocat-de-los-muertos.jpg">
     </body>
 </html>
