@@ -1,4 +1,4 @@
-package org.jboss.as.quickstarts.helloworld;
+package org.jboss.as.quickstarts.WebAppMaven;
 
 import org.junit.Test;
 public class UnitTest {
