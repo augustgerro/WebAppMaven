@@ -8,7 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Third commit</h1>
-        <img src="https://octodex.github.com/images/motherhubbertocat.png">
+        <h1>First commit</h1>
+        <img src="https://octodex.github.com/images/baracktocat.jpg">
     </body>
 </html>
